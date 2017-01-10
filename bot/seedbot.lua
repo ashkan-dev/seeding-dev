@@ -234,7 +234,7 @@ function create_config( )
     },
     sudo_users = {265821275},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [ ]],
+    about_text = [[  .  ]],
     help_text_realm = [[
 Realm Commands:
 
